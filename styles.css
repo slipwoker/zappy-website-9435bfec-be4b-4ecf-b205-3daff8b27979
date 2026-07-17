@@ -16572,6 +16572,12 @@ input, textarea, select, button {
 .cookie-preferences-btn:hover {
   text-decoration: none !important;
 }
+
+#index-content-alt-2-section .content-alt-2-figure {
+  width: 400px !important;
+  flex: 0 0 400px !important;
+  max-width: 50% !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
