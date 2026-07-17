@@ -8678,12 +8678,13 @@ main { flex: 1 0 auto; }
 }
 
 .index-content-alt-2-section .content-alt-2-figure {
-  flex: 0 0 auto;
+  flex: 0 0 400px;
   width: 400px;
   margin: 0;
   float: inline-end;
   margin-inline-start: 32px;
   margin-bottom: 16px;
+  max-width: 50%;
 }
 
 .index-content-alt-2-section .content-alt-2-figure img {
@@ -11485,7 +11486,9 @@ main { flex: 1 0 auto; }
 .index-content-alt-2-section .content-alt-2-figure {
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: 400px;
+  flex: 0 0 400px;
+  max-width: 50%;
 }
 
 .index-content-alt-2-section .content-alt-2-img {
@@ -12201,7 +12204,9 @@ main { flex: 1 0 auto; }
 
 .index-content-alt-2-section .content-alt-2-figure {
   margin: 0;
-  width: 100%;
+  width: 400px;
+  flex: 0 0 400px;
+  max-width: 50%;
 }
 
 .index-content-alt-2-section .content-alt-2-img {
@@ -13389,6 +13394,9 @@ main { flex: 1 0 auto; }
   margin: 0;
   padding: 0;
   position: relative;
+  width: 400px;
+  flex: 0 0 400px;
+  max-width: 50%;
 }
 
 .index-content-alt-2-section .content-alt-2-figure img {
