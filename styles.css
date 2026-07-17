@@ -16578,6 +16578,10 @@ input, textarea, select, button {
   flex: 0 0 400px !important;
   max-width: 50% !important;
 }
+
+#index-showcase-section .showcase-testimonials .showcase-share-form {
+  position: static !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
